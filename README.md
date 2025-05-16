@@ -2,7 +2,7 @@
 <html lang="th">
 <head>
   <meta charset="utf-8">
-  <title>Feedback Loop Demo</title>
+  <title>Loop</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
   <style>
@@ -47,12 +47,12 @@
   </style>
 </head>
 <body>
-  <h2>LOOP 🎧</h2>
-  <p>กดค้างเพื่อพูด → ปล่อยเพื่อให้เสียงวนและก้องมากขึ้น</p>
+  <h2>LOOP🎧</h2>
+  <p>กดค้างเพื่อพูด</p>
 
   <div class="button-group">
-    <button id="startBtn">🎤 START</button>
-    <button id="stopBtn">🛑 STOP</button>
+    <button id="startBtn">🎤START</button>
+    <button id="stopBtn">🛑STOP</button>
   </div>
 
   <script>
